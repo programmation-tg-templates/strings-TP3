@@ -1,4 +1,4 @@
-import { verifierEtFormaterEmail } from "./index";
+import { verifierEtFormaterEmail } from "../index";
 
 describe("Vérification et formatage d’e-mails", () => {
   test("E-mail valide", () => {
